@@ -1,0 +1,148 @@
+
+body{
+    font-family: "Roboto",sans-serif;
+    color: rgba(33, 33, 33, 1);
+}
+/* Верхняя линия */
+.logo{
+   font-family: "Raleway",sans-serif ;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 26*2;
+   color: #2196F3;
+ 
+}
+.nav-link{
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 14*2;
+   color: #212121;
+}
+.nav-link:hover{
+    color: #2196F3;
+}
+
+.list-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14*2;
+    color: rgba(117, 117, 117, 1);
+}
+.list-link:hover{
+    color: rgba(33, 150, 243, 1)
+}
+
+/* Шапка */
+
+.section-main{
+    background-color: rgb(47,48,58);
+}
+
+.slogan{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 44*2;
+    color: #FFFFFF;
+}
+
+.button{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16*2;
+    color: #FFFFFF;
+    background: #188CE8;
+}
+
+/* Особенности */
+
+.item-subtitle{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14*2;
+}
+
+.subtitle-lead{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14*2;
+    color: #757575;
+}
+
+/* Чем мы занимаемся */
+
+.subtitle{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36*2;
+}
+
+/* Наша команда */
+
+.author-name{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16*2;
+}
+
+.author-skills{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16*2;
+    color: #757575;
+}
+
+/* Портфолио */
+
+.button-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16*2;
+    color: rgba(33, 33, 33, 1);
+    background: rgb(245,244,250);
+}
+
+.button-item:hover,
+.button-item:active{
+    color: rgb(245,244,250);
+   background:rgba(33, 150, 243, 1)
+}
+
+.button-item{
+    cursor: pointer;
+}
+
+.img-subtitle{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18*2;
+}
+
+.img-desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16*2;
+    color: #757575;
+}
+/* Подвал */
+
+.footer{
+    background-color: rgb(47,48,58);   
+}
+
+.footer-adress{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14*2;
+    color: #FFFFFF;
+}
+
+.footer-link{
+    font-weight: 400;
+font-size: 14px;
+line-height: 14*2;
+color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-link:hover{
+    color: rgba(33, 150, 243, 1)
+}
