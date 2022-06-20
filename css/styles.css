@@ -104,6 +104,10 @@ body{
 
 /* Наша команда */
 
+.sektion-team{
+    background-color: rgba(245, 244, 250, 1)    ;
+}
+
 .author-name{
     font-weight: 500;
     font-size: 16px;
@@ -121,6 +125,7 @@ body{
 /* Портфолио */
 
 .button-item{
+    cursor: pointer;
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
@@ -134,10 +139,6 @@ body{
 .button-item:active{
     color: rgb(245,244,250);
    background:rgba(33, 150, 243, 1)
-}
-
-.button-item{
-    cursor: pointer;
 }
 
 .img-subtitle{
